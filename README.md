@@ -1,15 +1,18 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=168DFF&center=true&vCenter=true&lines=Hello%2C+There!+👋;I+am+Richard+🤘;Nice+to+meet+you!+😃&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=168DFF&center=true&vCenter=true&lines=Hey+there!+👋;I+am+Richard+🤘;Nice+to+meet+you!+😃&size=30">
   </a>
 </h1>
 
+## About me 
 
-I'm an Argentinian full-stack developer; I like learning new technologies and exploring creative solutions to solve a problem. Therefore, in my work, I have always tried to convey my passion for the profession and a high degree of involvement and perfectionism to consistently achieve the best result. Nowadays, I work on payments platform projects as a Fullstack developer; I am studying at the Universidad Tecnologica Nacional's Technical Programming career.
+I’m a Full-Stack Developer from Argentina, with over six years of experience building web apps that are fast, scalable, and easy to use. Most of my work has been in the financial sector, especially in Fintech, where I focus on creating solid solutions for complex problems.
+
+I’m all about writing clean, maintainable code and enjoy collaborating with teams to bring ideas to life. I like keeping up with new tech and finding smart ways to apply it in real projects.
 
 ## What I'm up to
 
-🌱 Nowardays, I’m coding on [NextJS](https://nextjs.org/) and [NestJS](https://docs.nestjs.com/)
+🌱 These days, I’m working with [Next.js](https://nextjs.org/) on the frontend and [NestJS](https://docs.nestjs.com/) on the backend.
 
 ## Languages
 <p align="center">
